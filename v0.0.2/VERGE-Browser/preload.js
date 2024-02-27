@@ -289,22 +289,22 @@ window.addEventListener('load', function () {
 				document.getElementById("loading").remove();
 
 				// Custom tags
-				if (mainUserData.data.user._id == "643fe1195290461b4c184095") {
+				if (mainUserData.data.user._id == "6267b4fda32f5606802c56cd") {
 					addTrait("GOLDEN RATIO", "A painter meets their subject eye to eye.", "#F3F4B3");
 
-				} else if (mainUserData.data.user._id == "62a78e80dea07bce363aa343") {
+				} else if (mainUserData.data.user._id == "6267b4fda32f5606802c56cd") {
 					addTrait("GIRL!", "Girl!", "#F3F4B3");
-				} else if (mainUserData.data.user._id == "636865c4f9ffbe7fac583f41") {
+				} else if (mainUserData.data.user._id == "6267b4fda32f5606802c56cd") {
 					if (Math.random() > 0.5) {
 						addTrait("GIRL!", "Girl!", "#F3F4B3");
 					}
-				} else if (mainUserData.data.user._id == "5ee9bfa12738825f8bf29b01") {
+				} else if (mainUserData.data.user._id == "6267b4fda32f5606802c56cd") {
 					addTrait("ALMOST KYRA", "We are not the same.", "#F3F4B3");
-				} else if (mainUserData.data.user._id == "61716f3de09631548041968d") {
+				} else if (mainUserData.data.user._id == "6267b4fda32f5606802c56cd") {
 					addTrait("BAD RNG", "This user has abysmally low RNG.", "#f4b6b3");
-				} else if (mainUserData.data.user._id == "60638e856aab4f0c1a1e8d03") {
+				} else if (mainUserData.data.user._id == "6267b4fda32f5606802c56cd") {
 					addTrait("UMBREON", "This user mains misdrop cannon.", "f4b6b3");
-				} else if (mainUserData.data.user._id == "61b544b1e9c8d503799ba8e7") {
+				} else if (mainUserData.data.user._id == "66267b4fda32f5606802c56cd") {
 					addTrait("MOON", "This user combos a lot.", "F3F4B3");
 				}
 
